@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hedil/hedil-chateli-4DS3-ml_project/mlruns/603199175223994612/bc5a7f8bcb3f4d5d93d6d38a2c8d6b1d/artifacts
+end_time: 1740489292982
+entry_point_name: ''
+experiment_id: '603199175223994612'
+lifecycle_stage: active
+run_id: bc5a7f8bcb3f4d5d93d6d38a2c8d6b1d
+run_name: tasteful-dolphin-373
+run_uuid: bc5a7f8bcb3f4d5d93d6d38a2c8d6b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740489288804
+status: 3
+tags: []
+user_id: hedil
